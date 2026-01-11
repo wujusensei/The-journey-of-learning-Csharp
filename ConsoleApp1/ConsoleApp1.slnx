@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../ConsoleApp1_trytry/ConsoleApp1_trytry.csproj" Id="ace95f2b-bef4-489e-9f33-bbf06608859f" />
+  <Project Path="../Csharp入门实践/Csharp入门实践.csproj" Id="cdaaef34-124d-4525-8ea9-753f991aa15b" />
+  <Project Path="../勇者斗恶龙/勇者斗恶龙.csproj" Id="a57a4f22-2322-42f2-8c04-7adc030ffa0b" />
+  <Project Path="ConsoleApp1.csproj" />
+</Solution>
